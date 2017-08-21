@@ -592,6 +592,10 @@ a:hover {
 #header1-2 .mbr-table-cell {
   vertical-align: bottom;
 }
+#content3-e .mbr-section-title,
+#content3-e .mbr-section-subtitle {
+  text-align: center;
+}
 #features12-6 .mbr-iconfont {
   color: #5aac98;
   border-color: #5aac98;
@@ -631,4 +635,11 @@ a:hover {
 #footer2-d .btn-social:hover {
   background: #74a3c7;
   color: #fff;
+}
+#features18-i .card .mbr-iconfont {
+  color: #fff;
+  border-color: #fff;
+}
+#features18-i .mbr-table-cell {
+  vertical-align: middle;
 }
